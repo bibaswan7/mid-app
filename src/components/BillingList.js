@@ -90,6 +90,7 @@ const BillingList = ({ batch, faculty, college, expenses, listedProducts }) => {
     <div>
       <h1>Billing List</h1>
       <ul>
+        __
         {entries.map((s) => (
           <li
             key={s.id}
