@@ -1,8 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-import Register from './components/StudentsRegister';
-import ExpenseTracker from './components/ExpenseTracker';
-import CashflowTracker from './components/CashflowTracker';
+import logo from "./logo.svg";
+import "./App.css";
+import Register from "./components/StudentsRegister";
+import ExpenseTracker from "./components/ExpenseTracker";
+import CashflowTracker from "./components/CashflowTracker";
+import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   return (
