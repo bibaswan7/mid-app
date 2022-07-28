@@ -10,7 +10,12 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
     "react-scripts": "5.0.1",
+<<<<<<< HEAD
+    "react-toastify": "^9.0.7",
+    "styled-components": "^5.3.5",
+=======
     "react-select": "^5.3.2",
+>>>>>>> 18230c4459f1e4b63cfb3267623e60b9aa9a7a7a
     "web-vitals": "^2.1.4"
   },
   "scripts": {
